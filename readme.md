@@ -14,7 +14,7 @@ GoldFish is a Content Management System (CMS) made for Habbo retros. It is built
 Goldfish CMS was originally made by [Laynester](https://github.com/Laynester/GoldFish)
 
 ## What is Goldfish v2
-Goldfish v2 is a maintained, updated & refactored version original Goldfish CMS, with permission from Laynester. I (Object) decided to start the Goldfish v2 project, to offer a bigger variety of CMS' to select from, when setting up your hotel.
+Goldfish v2 is a maintained, updated & refactored version original Goldfish CMS, with permission from Laynester. I (Object) decided to start the Goldfish v2 project, to offer a bigger variety of CMS' to select from, when setting up your hotel. Project taken by Live.
 
 ## What does Goldfish CMS offer?
 Goldfish CMS offers a modern and industry approved backend, featuring the PHP framework Laravel and support for the most recent PHP version (PHP 8.1).
