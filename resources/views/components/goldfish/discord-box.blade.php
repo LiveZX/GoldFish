@@ -14,6 +14,6 @@
             };
             var serverid = "{{CMSHelper::settings('discord_id')}}";
         </script>
-        <script src="{{ asset('js/discord.js') }}" defer></script>
+        <script src="{{ asset('assets/js/discord.js') }}" defer></script>
 </div>
 @endif

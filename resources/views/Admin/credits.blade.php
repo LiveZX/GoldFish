@@ -4,7 +4,7 @@
 <div class="body_content">
     <div class="row justify-content-center text-center">
         <div class="col-md-10">
-            <img src="/images/goldfish.png">
+            <img src="/assets/images/goldfish.png">
             <p>
                 Goldfish has been in development since May 4th, 2019<br>
                 Goldfish is a free software, developed for Arcturus Morningstar, found on <a href="https://arcturus.dev/">Arcturus.Dev</a>,<br> So if you paid for this, get your money back!
