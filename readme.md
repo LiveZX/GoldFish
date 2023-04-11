@@ -43,7 +43,7 @@ git clone https://github.com/ObjectRetros/GoldFish.git
 cd GoldFish
 copy .env.example .env
 composer install / composer install --ignore-platform-reqs (for php8)
-composer require doctrine/dbal
+composer require doctrine/dbal --ignore-platform-reqs (for php8)
 npm install && npm run dev
 php artisan key:generate
 php artisan migrate --seed
@@ -54,7 +54,7 @@ git clone https://github.com/ObjectRetros/GoldFish.git
 cd GoldFish
 For Linux: cp .env.example .env
 composer install / composer install --ignore-platform-reqs (for php8)
-composer require doctrine/dbal --ignore-platform-reqs
+composer require doctrine/dbal --ignore-platform-reqs (for php8)
 npm install && npm run dev
 php artisan key:generate
 php artisan migrate --seed
